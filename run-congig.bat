@@ -24,6 +24,7 @@ npm install  --save-dev gulp-typescript
 npm install  --save-dev gulp-uglify
 npm install  --save-dev run-sequence
 npm install  --save-dev tslint
+npm install  --save-dev tsify
 npm install  --save-dev typescript
 npm install  --save-dev vinyl-buffer
 npm install  --save-dev vinyl-source-stream
@@ -35,3 +36,5 @@ git remote add origin https://github.com
 git push -u origin master
 
 npm install @types/mocha
+npm install @types/chai
+npm install @types/jquery

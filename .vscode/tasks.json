@@ -23,6 +23,20 @@
             "problemMatcher": [
                 "$go"
             ]
+        },
+        {
+            "type": "gulp",
+            "task": "build",
+            "problemMatcher": [
+                "$go"
+            ]
+        },
+        {
+            "type": "gulp",
+            "task": "build-test",
+            "problemMatcher": [
+                "$go"
+            ]
         }
     ]
 }
