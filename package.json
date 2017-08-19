@@ -1,7 +1,7 @@
 {
-  "name": "ts-vscode-boilerplate",
+  "name": "ts-vscode-example",
   "version": "1.0.0",
-  "description": "Visual Studio Code TypeScript boilerplate",
+  "description": "Visual Studio Code TypeScript example",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/remojansen/ts-vscode-boilerplate.git"
+    "url": "git+https://github.com/ladislavlisy/ts-vscode-example.git"
   },
-  "author": "Remo H. Jansen <remo.jansen@wolksoftware.com> (http://www.remojansen.com)",
+  "author": "Ladislav Lisy <ladislav.lisy@seznam.cz> (http://www.mzdyhrave.eu)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/remojansen/ts-vscode-boilerplate/issues"
+    "url": "https://github.com/ladislavlisy/ts-vscode-example/issues"
   },
-  "homepage": "https://github.com/remojansen/ts-vscode-boilerplate#readme",
+  "homepage": "https://github.com/ladislavlisy/ts-vscode-example#readme",
   "devDependencies": {
     "@types/chai": "^3.4.34",
     "@types/jquery": "^2.0.33",
