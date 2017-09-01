@@ -34,6 +34,7 @@ git config --global user.name "Ladislav Lisy"
 git config --global user.email ladislav.lisy@seznam.cz
 git remote add origin https://github.com
 git push -u origin master
+git pull origin master
 
 npm install @types/mocha
 npm install @types/chai
